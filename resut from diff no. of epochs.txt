@@ -1,0 +1,6 @@
+epoch = 30
+	accuracy = 91.66%
+epoch = 20
+	accuracy = 91.62% ------------> correct
+epoch = 10
+	accuracy = 90.24%
