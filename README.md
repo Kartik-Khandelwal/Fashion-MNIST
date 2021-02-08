@@ -1,1 +1,1 @@
-# student-mark-pridictor
+# Fashion-MNIST
